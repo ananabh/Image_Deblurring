@@ -1,5 +1,5 @@
 # Image_Deblurring
-	Project Course CS399 for deblurring of Image using Machine Learning
+	Deblurring of Image using Machine Learning
 #### Concept and Algorithm Used
 	1.Gaussian Mixture Model (Soft Clustering Algorithm)
 	2.Dictionary Learning using weighted sparse coding 
